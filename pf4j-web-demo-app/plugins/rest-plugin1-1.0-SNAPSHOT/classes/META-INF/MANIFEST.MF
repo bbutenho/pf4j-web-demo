@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Plugin-Dependencies: 
+Plugin-Id: rest-plugin-1
+Archiver-Version: Plexus Archiver
+Built-By: bbutenho
+Plugin-Provider: Bryan Butenhoff
+Plugin-Version: 0.0.1
+Plugin-Class: pf4j.example.web.display.WelcomePlugin
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_102
+
