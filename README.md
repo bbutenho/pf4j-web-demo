@@ -1,0 +1,1 @@
+This project is meant as a learning platform for application development around plugin extensibility of a REST service.
